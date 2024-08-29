@@ -1,0 +1,25 @@
+/* Header Styles */
+header {
+    background: linear-gradient(90deg, #0072ff, #00c6ff);
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+#state-name {
+    font-weight: 700;
+}
+
+/* Main Section */
+main {
+    padding: 20px;
+   
+    max-width: 1200px;
+    margin: auto;
+    
